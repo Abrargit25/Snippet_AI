@@ -1,11 +1,4 @@
-/**
- * splash_screen.tsx  [WIDGET — Composed]
- * ─────────────────────────────────────────────────────────
- * Animated brand block for the Splash Screen.
- * Composes AppLogo + BrandTagline with a coordinated
- * fade-in + scale-up entrance animation on mount.
- * ─────────────────────────────────────────────────────────
- */
+
 import React, { useEffect } from 'react';
 import { View, StyleSheet } from 'react-native';
 import Animated, {
