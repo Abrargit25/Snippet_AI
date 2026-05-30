@@ -4,14 +4,42 @@ DevSnippets AI is an offline-first, local-first code snippet manager built using
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Application Screenshots Gallery
 
-*Replace these placeholders with your actual screenshot images before submitting!*
+Below is the complete walkthrough of the DevSnippets AI app interface, displaying emulator screenshots grouped by category:
 
-| Home Dashboard | Snippet Details | AI Code Insights |
-| :---: | :---: | :---: |
-| `<!-- Add Home Screen Screenshot Here -->` <br> ![Home Screen](![alt text](image.png)) (![alt text](image-16.png)) | `<!-- Add Snippet Screen Screenshot Here -->` <br> ![Snippet Screen](![alt text](image-1.png)) (![alt text](image-2.png)) (![alt text](image-3.png)) (![alt text](image-4.png)) (![alt text](image-5.png)) (![alt text](image-6.png)) (![alt text](image-7.png)) ()| `<!-- Add AI Screen Screenshot Here -->` <br> ![AI Insights Screen](![alt text](image-8.png)) (![alt text](image-9.png)) (![alt text](image-10.png)) (![alt text](image-11.png)) (![alt text](image-12.png)) (![alt text](image-13.png)) (![alt text](image-14.png)) (![alt text](image-15.png)) |
+### 🏠 1. Home Dashboard & Navigation
+<p align="left">
+  <img src="image.png" width="30%" alt="Home Dashboard" />
+  <img src="image-16.png" width="30%" alt="App Navigation" />
+</p>
 
+### 📄 2. Snippet Views, Modals & Onboarding
+<p align="left">
+  <img src="image-1.png" width="22%" alt="Snippet Details" />
+  <img src="image-2.png" width="22%" alt="Snippet Actions" />
+  <img src="image-3.png" width="22%" alt="Code Content" />
+  <img src="image-4.png" width="22%" alt="Language Selection" />
+</p>
+<p align="left">
+  <img src="image-5.png" width="22%" alt="Onboarding Welcome" />
+  <img src="image-6.png" width="22%" alt="Onboarding Guide" />
+  <img src="image-7.png" width="22%" alt="Secure Passcode Screen" />
+</p>
+
+### 🤖 3. AI Insights, Explanations & Settings
+<p align="left">
+  <img src="image-8.png" width="22%" alt="AI Explain Picker" />
+  <img src="image-9.png" width="22%" alt="AI Insight Trigger" />
+  <img src="image-10.png" width="22%" alt="AI Analysis Header" />
+  <img src="image-11.png" width="22%" alt="Plain English How It Works" />
+</p>
+<p align="left">
+  <img src="image-12.png" width="22%" alt="Numbered Suggestions" />
+  <img src="image-13.png" width="22%" alt="Regeneration Trigger" />
+  <img src="image-14.png" width="22%" alt="AI Providers Settings" />
+  <img src="image-15.png" width="22%" alt="Configure Provider Keys" />
+</p>
 
 ---
 
