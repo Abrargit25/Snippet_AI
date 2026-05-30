@@ -10,6 +10,7 @@ Below is the complete walkthrough of the DevSnippets AI app interface, displayin
 
 ### 🏠 1. Home Dashboard & Navigation
 <p align="left">
+   <img src="image-17.png" width="30%" alt="App Navigation" />
   <img src="image.png" width="30%" alt="Home Dashboard" />
   <img src="image-16.png" width="30%" alt="App Navigation" />
 </p>
@@ -40,6 +41,14 @@ Below is the complete walkthrough of the DevSnippets AI app interface, displayin
   <img src="image-14.png" width="22%" alt="AI Providers Settings" />
   <img src="image-15.png" width="22%" alt="Configure Provider Keys" />
 </p>
+
+---
+
+## 🎥 Application Demo Video
+
+Below is the complete walkthrough video of the application demonstrating the local database, offline capabilities, AI insights, and file manager features:
+
+<video src="snippet_APK.mp4" width="100%" controls></video>
 
 ---
 
