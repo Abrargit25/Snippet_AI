@@ -1,13 +1,3 @@
-/**
- * add_or_edit_snippet.tsx
- * ─────────────────────────────────────────────────────────────────────────────
- * Create or edit a snippet with:
- *  • Title, language picker, code editor, tags
- *  • Screenshot: Take Photo (camera) or Choose from Library
- *  • Remove attached screenshot
- *  • Image copied into app's screenshots/ sandbox folder
- * ─────────────────────────────────────────────────────────────────────────────
- */
 import React, { useState } from 'react';
 import {
   View, Text, StyleSheet, TextInput, ScrollView,
