@@ -1,9 +1,3 @@
-/**
- * snippet_list_section.tsx [WIDGET]
- * ─────────────────────────────────────────────────────────
- * A section that renders a list of snippet cards.
- * ─────────────────────────────────────────────────────────
- */
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import { Spacing } from '../themes/palette';
