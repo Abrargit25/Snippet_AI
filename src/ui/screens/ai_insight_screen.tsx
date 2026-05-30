@@ -1,14 +1,3 @@
-/**
- * ai_insight_screen.tsx
- * ─────────────────────────────────────────────────────────────────────────────
- * AI-generated code insights with premium typography:
- *  • Snippet mini-header card (language accent bar)
- *  • Summary card — short 1–3 sentence overview
- *  • How It Works card — plain-English explanation
- *  • Suggestions card — parsed as individual numbered bullet points
- *  • Regenerate action
- * ─────────────────────────────────────────────────────────────────────────────
- */
 import React, { useCallback, useState, useEffect } from 'react';
 import {
   View, Text, StyleSheet, ScrollView,
