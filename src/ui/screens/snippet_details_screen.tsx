@@ -1,14 +1,3 @@
-/**
- * snippet_details_screen.tsx
- * ─────────────────────────────────────────────────────────────────────────────
- * View a snippet with:
- *  • Title, tags, code, AI explain button
- *  • Export chips (.txt / .js / .json)
- *  • "Save to Files" — writes code to exports/ sandbox folder
- *  • Screenshot attachment with full-screen preview tap
- *  • Edit / Delete actions
- * ─────────────────────────────────────────────────────────────────────────────
- */
 import React, { useCallback, useState } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, Pressable,
