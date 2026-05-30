@@ -1,11 +1,3 @@
-/**
- * SplashLoader.tsx  [WIDGET — Composed]
- * ─────────────────────────────────────────────────────────
- * Animated spinner + status message block shown at the
- * bottom of the splash screen during app initialization.
- * Fades in on mount via reanimated.
- * ─────────────────────────────────────────────────────────
- */
 import React, { useEffect } from 'react';
 import { View, ActivityIndicator, Text, StyleSheet } from 'react-native';
 import Animated, {
