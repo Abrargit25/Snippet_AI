@@ -1,12 +1,3 @@
-/**
- * quick_actions.tsx [WIDGET]
- * ─────────────────────────────────────────────────────────
- * A fixed row of high-fidelity quick action buttons for the home screen.
- * Exactly matches the reference design:
- *   • Fixed layout (no scrolling) using evenly spaced flex items.
- *   • Rounded colored squares with custom white vector symbols.
- * ─────────────────────────────────────────────────────────
- */
 import React from 'react';
 import { View, Text, Pressable, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
