@@ -1,10 +1,3 @@
-/**
- * ai_explain_pick_screen.tsx
- * ─────────────────────────────────────────────────────────────────────────────
- * Snippet picker for "AI Explain" — shows all stored snippets so the user can
- * tap one and land on the AI Insights screen for that snippet.
- * ─────────────────────────────────────────────────────────────────────────────
- */
 import React, { useCallback, useState } from 'react';
 import {
   View,
