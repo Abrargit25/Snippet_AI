@@ -48,7 +48,7 @@ Below is the complete walkthrough of the DevSnippets AI app interface, displayin
 
 Below is the complete walkthrough video of the application demonstrating the local database, offline capabilities, AI insights, and file manager features:
 
-<video src="snippet_APK.mp4" width="100%" controls></video>
+[<video src="snippet_APK.mp4" width="100%" controls></video>](https://drive.google.com/file/d/1iiGTPbqfsx5kuKJxhW7Aw2SLba75APVv/view?usp=drive_link)
 
 ---
 
